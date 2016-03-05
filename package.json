@@ -1,0 +1,29 @@
+{
+  "name": "newtility",
+  "version": "1.0.0",
+  "description": "Utility for generic shallow copies and instances creation.",
+  "main": "build/new.npm.js",
+  "scripts": {
+    "build": "sh build.sh",
+    "test": "node test/new.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebReflection/newtility.git"
+  },
+  "keywords": [
+    "new",
+    "shallow",
+    "object",
+    "copy"
+  ],
+  "author": "Andrea Giammarchi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WebReflection/newtility/issues"
+  },
+  "homepage": "https://github.com/WebReflection/newtility#readme",
+  "devDependencies": {
+    "uglifyjs": "^2.4.10"
+  }
+}
