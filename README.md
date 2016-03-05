@@ -1,4 +1,4 @@
-# newtility
+# newtility ![build status](https://travis-ci.org/WebReflection/newtility.svg?branch=master)
 Utility for generic shallow copies and instances creation.
 
 Available in `npm` through `npm install newtility`.
